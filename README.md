@@ -1,5 +1,7 @@
 # Orientation-Study-of-Fluidised-Bed-Particles
-Experimental study on the orientation of elongated fluidized bed particles with the help of OpenCV and Hough Transform
+Experimental study on the orientation of elongated fluidized bed particles with the help of OpenCV and Hough Transform 
+![image](https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/599c4cb0-0ef6-4e81-8da6-4e79f7715cae)
+
 # The problem it solves
 It helps the researcher analyze the orientation of the elongated fluidized bed particles in motion, thereby helping in understanding de-mixing phenomena. The particles used in this study have equal volume and density but a different shape. The main purpose of this work is to study de-mixing driven by particle shape. To analyze the particle distributions inside the fluidized bed, a Digital Image Analysis (DIA) technique has been developed, capable of capturing the particle positions with the help of high speed camera and orientations within the bed over time.
 # Challenges I ran into
