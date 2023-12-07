@@ -12,6 +12,7 @@ It helps the researcher analyze the orientation of the various different types o
 
 Thereby helping in understanding de-mixing phenomena of the bed particles. The main purpose of this work is to study de-mixing driven by particle shape. To analyze the particle distributions inside the fluidized bed, a Digital Image Analysis (DIA) technique has been developed, capable of capturing the particle positions with the help of high speed camera and orientations within the bed over time. The AVI video taken by the high speed camera, was then broken into frames of images, upon which the analysis was done.
 
+
 # Challenges I ran into
 Reading cylindrical and spherical particles simultaneously was a challenge, so I had to first segregate between cylindrical and spherical particles according to the luminous intensity of the reflections, and then treat both types of particles differently. Moreover, not much work in this area had been previously done on this topic, whatever was present was covered by MATLAB, so I proposed a similar solution by the usage of OpenCV. Also in some images the contrast difference between the particles and the background wasn't that high, due to which I was facing challenges in detecting their edges, also some particle's 2D cross section looks something different from their 3d view - like in the cast of oblate spherical particles where the 2d cross section seems to be like prolate elongated particles, leading to paths of errors. Also some regions of the S-Bend weren't properly illuminated leading to clustering of zones, which also lead to some error factor.
 
@@ -27,8 +28,10 @@ The accuracy can be further inhanced by incorporating some of the following norm
 > [!NOTE]
 > Detecting cuboidal particles was the most difficult, as it was blending with the background colour.
 
-# Dataset
+# Important Links
 Videos from high speed camera were taken by PhD candidates and they happen to be very large in size, it can be accessed from [here](https://drive.google.com/drive/folders/1NQjE6AnNW-kiH9jZ47fWmyq9L2_LGGzc?usp=sharing). The image frames of these videos though have been uploaded in the repo.
+> [!NOTE]
+> Medium Documentation of the Project [Link](https://medium.com/@beingamanforever/orientation-study-of-elongated-fluidized-bed-99677e5a370e)
 
 # References used
 Used this [research paper](https://www.sciencedirect.com/science/article/abs/pii/S003259101930587X) for reference, here only the image analysis of cylindrical particles was done. I extended to consider various other type of particles.
