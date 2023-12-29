@@ -12,9 +12,7 @@ It helps the researcher analyze the orientation of the various different types o
 
 Thereby helping in understanding de-mixing phenomena of the bed particles. The main purpose of this work is to study de-mixing driven by particle shape. To analyze the particle distributions inside the fluidized bed, a Digital Image Analysis (DIA) technique has been developed, capable of capturing the particle positions with the help of high speed camera and orientations within the bed over time. The AVI video taken by the high speed camera, was then broken into frames of images, upon which the analysis was done.
 
-
-https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/71e0d286-4937-4771-88c5-776437c7c53f
-
+[![Watch the video](https://images.unsplash.com/photo-1682687982185-531d09ec56fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw1MHx8fGVufDB8fHx8fA%3D%3D)](https://youtu.be/9iLVBLPcSRk)
 
 # Challenges I ran into
 Reading cylindrical and spherical particles simultaneously was a challenge, so I had to first segregate between cylindrical and spherical particles according to the luminous intensity of the reflections, and then treat both types of particles differently. Moreover, not much work in this area had been previously done on this topic, whatever was present was covered by MATLAB, so I proposed a similar solution by the usage of OpenCV. Also in some images the contrast difference between the particles and the background wasn't that high, due to which I was facing challenges in detecting their edges, also some particle's 2D cross section looks something different from their 3d view - like in the cast of oblate spherical particles where the 2d cross section seems to be like prolate elongated particles, leading to paths of errors. Also some regions of the S-Bend weren't properly illuminated leading to clustering of zones, which also lead to some error factor.
