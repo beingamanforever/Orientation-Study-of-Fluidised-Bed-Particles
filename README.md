@@ -39,14 +39,14 @@ Videos from high speed camera were taken by PhD candidates and they happen to be
 
 ## Some of the image frames from the videos captured using high-speed cameras
 <p float="left">
-  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/61ad9c6e-a3f9-4982-9f22-ce7f55100f43" width="310" />
-  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/8d051875-d2d4-4c45-b494-692ca4ccaf5d" width="310" /> 
-  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/80dfd412-5bb1-4a97-89a2-03d054ddaad9" width="310" />
+  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/61ad9c6e-a3f9-4982-9f22-ce7f55100f43" width="250" />
+  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/8d051875-d2d4-4c45-b494-692ca4ccaf5d" width="250" /> 
+  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/80dfd412-5bb1-4a97-89a2-03d054ddaad9" width="250" />
 </p>
 <p float="left">
-  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/bfcfd1d9-3d3e-46d0-846d-254b35fb766f" width="310" />
-  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/ce0f67b7-6298-40ef-bfc7-cf42319bac70" width="310" /> 
-  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/dc92f35b-b7da-4b6e-ac83-2af285663524" width="310" />
+  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/bfcfd1d9-3d3e-46d0-846d-254b35fb766f" width="250" />
+  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/ce0f67b7-6298-40ef-bfc7-cf42319bac70" width="250" /> 
+  <img src="https://github.com/beingamanforever/Orientation-Study-of-Fluidised-Bed-Particles/assets/121532863/dc92f35b-b7da-4b6e-ac83-2af285663524" width="250" />
 </p>
 
 
